@@ -91,7 +91,7 @@
 									<i class="fa fa-bars"></i>
 								</button>
 								<div class="buy-tickets mt-sm pull-right">
-									<a href="" class="btn btn-primary custom-border-radius custom-btn-style-1 font-size-md font-weight-bold text-color-light text-uppercase outline-none ml-lg" href="">Buy Tickets <i class="custom-long-arrow-right" aria-hidden="true"></i></a>
+									<a href="" class="btn btn-primary custom-border-radius custom-btn-style-1 font-size-md font-weight-bold text-color-light text-uppercase outline-none ml-lg" href="">Masuk / Daftar <i class="custom-long-arrow-right" aria-hidden="true"></i></a>
 								</div>
 								<div class="header-nav-main header-nav-main-effect-1 header-nav-main-sub-effect-1 collapse">
 									<nav>

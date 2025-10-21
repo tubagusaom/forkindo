@@ -3,25 +3,25 @@
 				<div class="row mb-xlg pb-xlg">
 					<div class="col-md-5">
 						<div class="mb-xlg pb-xlg">
-							<h4 class="text-color-light font-weight-light mb-sm">Porto Event - July 17 &amp; 18, 2017 in NYC</h4>
-							<p class="custom-font-size-3 text-color-light font-weight-normal text-uppercase mb-none">New York Plaza - New Work - NY</p>
+							<h4 class="text-color-light font-weight-light mb-sm">FORKINDO</h4>
+							<!-- <p class="custom-font-size-3 text-color-light font-weight-normal text-uppercase mb-none">New York Plaza - New Work - NY</p> -->
 						</div>
-						<a href="" class="btn btn-primary custom-border-radius custom-btn-style-1 font-size-md font-weight-semibold text-color-light text-uppercase outline-none">Buy Tickets <i class="custom-long-arrow-right ml-md" aria-hidden="true"></i></a>
+						<a href="" class="btn btn-primary custom-border-radius custom-btn-style-1 font-size-md font-weight-semibold text-color-light text-uppercase outline-none">Masuk / Daftar <i class="custom-long-arrow-right ml-md" aria-hidden="true"></i></a>
 					</div>
 					<div class="col-md-3">
 						<div class="contact-details">
 							<h4 class="text-color-light font-weight-light mb-lg pb-xs">Contact Us</h4>
 							<div class="mb-md">
 								<strong class="font-weight-light text-color-light">Address:</strong>
-								<span class="font-weight-light">1234 Street Name, City Name, United States</span>
+								<span class="font-weight-light">Mandiri Inhealth Tower Lt 12, Jl. Prof. DR. Satrio Kav. E-IV No.6, Kuningan, Kecamatan Setiabudi, Jakarta Selatan, 12940</span>
 							</div>
 							<div class="mb-md">
 								<strong class="font-weight-light text-color-light">Phone:</strong>
-								<a href="tel:1234567890" class="text-decoration-none font-weight-light">(123) 456-7890</a>
+								<a href="tel:+628997409517" class="text-decoration-none font-weight-light">(+62) 8997409517</a>
 							</div>
 							<div>
 								<strong class="font-weight-light text-color-light">Email:</strong>
-								<a href="mailto:mail@example.com" class="text-decoration-none font-weight-light">mail@example.com</a>
+								<a href="mailto:info@forkindo.id" class="text-decoration-none font-weight-light">info@forkindo.id</a>
 							</div>
 						</div>
 					</div>

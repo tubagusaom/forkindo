@@ -519,7 +519,7 @@
 											Lorem ipsum dolor sit amet, consectetur adipiscing elit. In suscipit molestie lorem, semper tristique arcu interdum quis. Aenean finibus, metus et pulvinar tincidunt, nunc ex suscipit eros, eget pretium.
 										</p>
 										<div class="center">
-											<a href="" class="btn btn-tertiary about-btn-tickets custom-border-radius custom-btn-style-1 font-size-md font-weight-semibold text-color-light text-uppercase outline-none mb-lg">Buy Tickets <i class="custom-long-arrow-right" aria-hidden="true"></i></a>
+											<a href="" class="btn btn-tertiary about-btn-tickets custom-border-radius custom-btn-style-1 font-size-md font-weight-semibold text-color-light text-uppercase outline-none mb-lg">Masuk / Daftar <i class="custom-long-arrow-right" aria-hidden="true"></i></a>
 											<a data-hash data-hash-offset="80" href="#schedule" class="btn custom-btn-border-1 custom-btn-style-1 custom-border-radius font-size-md font-weight-semibold text-color-light text-uppercase outline-none mb-lg">Event Schedule <i class="custom-long-arrow-right" aria-hidden="true"></i></a>
 										</div>
 									</div>
@@ -954,7 +954,7 @@
 												<p class="font-weight-normal mb-none"><strong>Address:</strong> Mandiri Inhealth Tower Lt 12, Jl. Prof. DR. Satrio Kav. E-IV No.6, Kuningan, Kecamatan Setiabudi, Jakarta Selatan, 12940</p>
 												<p class="font-weight-normal mb-xlg">
 													<strong>Phone:</strong>
-													<a href="tel:+123456789" class="custom-text-color-def">
+													<a href="tel:+628997409517" class="custom-text-color-def">
 														(+62) 8997409517
 													</a>
 												</p>
