@@ -513,14 +513,14 @@
 												<img src="<?=base_url() ?>assets/img/demos/event/about/about-icon.png" class="img-responsive" alt="">
 											</div>
 											<h3 class="text-color-light text-uppercase font-weight-bold mb-sm">About FORKINDO</h3>
-											<p class="text-color-light text-uppercase mb-none">What is Porto Event 2017</p>
+											<p class="text-color-light text-uppercase mb-none">What is Forkindo</p>
 										</div>
 										<p class="custom-text-color-1 font-weight-normal pb-xlg mb-xl">
 											Lorem ipsum dolor sit amet, consectetur adipiscing elit. In suscipit molestie lorem, semper tristique arcu interdum quis. Aenean finibus, metus et pulvinar tincidunt, nunc ex suscipit eros, eget pretium.
 										</p>
 										<div class="center">
 											<a href="" class="btn btn-tertiary about-btn-tickets custom-border-radius custom-btn-style-1 font-size-md font-weight-semibold text-color-light text-uppercase outline-none mb-lg">Masuk / Daftar <i class="custom-long-arrow-right" aria-hidden="true"></i></a>
-											<a data-hash data-hash-offset="80" href="#schedule" class="btn custom-btn-border-1 custom-btn-style-1 custom-border-radius font-size-md font-weight-semibold text-color-light text-uppercase outline-none mb-lg">Event Schedule <i class="custom-long-arrow-right" aria-hidden="true"></i></a>
+											<!-- <a data-hash data-hash-offset="80" href="#schedule" class="btn custom-btn-border-1 custom-btn-style-1 custom-border-radius font-size-md font-weight-semibold text-color-light text-uppercase outline-none mb-lg">Event Schedule <i class="custom-long-arrow-right" aria-hidden="true"></i></a> -->
 										</div>
 									</div>
 								</div>
