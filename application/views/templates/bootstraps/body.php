@@ -516,7 +516,7 @@
 											<p class="text-color-light text-uppercase mb-none">What is Forkindo</p>
 										</div>
 										<p class="custom-text-color-1 font-weight-normal pb-xlg mb-xl">
-											Lorem ipsum dolor sit amet, consectetur adipiscing elit. In suscipit molestie lorem, semper tristique arcu interdum quis. Aenean finibus, metus et pulvinar tincidunt, nunc ex suscipit eros, eget pretium.
+											FORKINDO adalah wadah bagi produsen, inovator, dan mitra pendukung industri kendaraan listrik di Indonesia. Kami berfokus pada penguatan rantai pasok komponen lokal, riset, dan kolaborasi strategis untuk mempercepat kemandirian industri kendaraan listrik nasional.
 										</p>
 										<div class="center">
 											<a href="" class="btn btn-tertiary about-btn-tickets custom-border-radius custom-btn-style-1 font-size-md font-weight-semibold text-color-light text-uppercase outline-none mb-lg">Masuk / Daftar <i class="custom-long-arrow-right" aria-hidden="true"></i></a>
