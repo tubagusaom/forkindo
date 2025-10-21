@@ -512,7 +512,7 @@
 											<div class="icon">
 												<img src="<?=base_url() ?>assets/img/demos/event/about/about-icon.png" class="img-responsive" alt="">
 											</div>
-											<h3 class="text-color-light text-uppercase font-weight-bold mb-sm">About the Event</h3>
+											<h3 class="text-color-light text-uppercase font-weight-bold mb-sm">About FORKINDO</h3>
 											<p class="text-color-light text-uppercase mb-none">What is Porto Event 2017</p>
 										</div>
 										<p class="custom-text-color-1 font-weight-normal pb-xlg mb-xl">
