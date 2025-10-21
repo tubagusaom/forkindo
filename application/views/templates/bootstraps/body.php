@@ -950,15 +950,15 @@
 										<div class="col-xs-6 hidden-xs p-none" style="background-image: url('<?=base_url() ?>assets/img/demos/event/venue/venue-img.jpg')"></div>
 										<div class="col-xs-6 p-xlg">
 											<div class="p-sm">
-												<div class="text-color-dark font-weight-bold text-uppercase mb-md">New York Plazha</div>
-												<p class="font-weight-normal mb-none"><strong>Address:</strong> 1234, Street, City Name, United States</p>
+												<div class="text-color-dark font-weight-bold text-uppercase mb-md">Sekretariat FORKINDO</div>
+												<p class="font-weight-normal mb-none"><strong>Address:</strong> Mandiri Inhealth Tower Lt 12, Jl. Prof. DR. Satrio Kav. E-IV No.6, Kuningan, Kecamatan Setiabudi, Jakarta Selatan, 12940</p>
 												<p class="font-weight-normal mb-xlg">
 													<strong>Phone:</strong>
 													<a href="tel:+123456789" class="custom-text-color-def">
-														(123) 456-789
+														(+62) 8997409517
 													</a>
 												</p>
-												<a href="http://maps.google.com" target="_blank" class="btn btn-primary custom-border-radius custom-btn-style-1 font-size-md font-weight-semibold text-color-light text-uppercase outline-none">Get Direction <i class="custom-long-arrow-right" aria-hidden="true"></i></a>
+												<a href="https://www.google.com/maps/place/Mandiri+Inhealth+Tower/@-6.224682,106.8228363,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69f40807c4c18f:0x4c3bd83a57d2a33a!8m2!3d-6.224682!4d106.8254112!16s%2Fg%2F1q62m6v7c?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D" target="_blank" class="btn btn-primary custom-border-radius custom-btn-style-1 font-size-md font-weight-semibold text-color-light text-uppercase outline-none">Get Direction <i class="custom-long-arrow-right" aria-hidden="true"></i></a>
 											</div>
 										</div>
 										<span class="custom-arrow background-color-light"></span>
