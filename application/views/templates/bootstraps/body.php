@@ -7,12 +7,13 @@
 						<ul>
 
 							<li data-transition="fade">
-								<img src="<?=base_url() ?>assets/img/demos/event/slides/slide-1.jpg"  
+								<img src="<?=base_url() ?>assets/img/demos/event/slides/background-2.png"  
 									alt=""
 									data-bgposition="center center" 
 									data-bgfit="cover" 
 									data-bgrepeat="no-repeat" 
-									class="rev-slidebg">
+									class="rev-slidebg"
+                >
 
 								<h1 class="tp-caption text-color-light font-weight-extra-bold text-uppercase"
 									data-x="['left','left','left','left']"

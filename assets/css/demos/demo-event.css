@@ -200,6 +200,7 @@ html[dir="rtl"] .nav-pills > li:first-child {
 }
 #header.custom-header-transparent-style-1 .header-nav-main nav > ul > li.active > a, #header.custom-header-transparent-style-1 .header-nav-main nav > ul > li:hover > a {
 	color: #43a6a3 !important;
+	background: #111421 !important;
 }
 #header.custom-header-transparent-style-1 .header-nav-main nav > ul > li > a {
 	border-bottom-width: 1px;
