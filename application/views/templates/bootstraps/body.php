@@ -107,11 +107,13 @@
 										<p class="custom-text-color-1 font-weight-normal mb-xl">
 											<ol>
 												<li>Menghubungkan produsen dan pemangku kepentingan di ekosistem kendaraan listrik.</li>
-												<li>Menghubungkan produsen dan pemangku kepentingan di ekosistem kendaraan listrik.</li>
-												<li>Menghubungkan produsen dan pemangku kepentingan di ekosistem kendaraan listrik.</li>
-												<li>Menghubungkan produsen dan pemangku kepentingan di ekosistem kendaraan listrik.</li>
+												<li>Mendorong riset dan sertifikasi produk komponen lokal.</li>
+												<li>Menjadi mitra strategis pemerintah dan lembaga terkait.</li>
+												<li>Memperluas jaringan bisnis dan kolaborasi global.</li>
 											</ol>
 										</p>
+										<p>&nbsp;</p>
+										<p>&nbsp;</p>
 									</div>
 								</div>
 							</div>
