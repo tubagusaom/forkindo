@@ -51,23 +51,68 @@
 									<img src="<?=base_url() ?>assets/img/demos/event/play-icon.png" class="img-responsive" width="90" height="90" />
 								</a>
 							</div> -->
-							<div class="col-md-12 background-color-primary p-lg">
+
+							<div class="col-md-4 background-color-primary p-lg">
 								<div class="custom-about-content text-color-light p-xlg">
 									<div class="pt-lg">
 										<div class="about-title mb-xlg pb-lg">
 											<div class="icon">
-												<img src="<?=base_url() ?>assets/img/demos/event/about/about-icon.png" class="img-responsive" alt="">
+												<img src="<?=base_url() ?>assets/img/demos/event/about/tentang.png" class="img-responsive" alt="">
 											</div>
 											<h3 class="text-color-light text-uppercase font-weight-bold mb-sm">Tentang FORKINDO</h3>
-											<p class="text-color-light text-uppercase mb-none">Apa itu Forkindo</p>
+											<!-- <p class="text-color-light text-uppercase mb-none">Apa itu Forkindo</p> -->
 										</div>
 										<p class="custom-text-color-1 font-weight-normal pb-xlg mb-xl">
 											FORKINDO adalah wadah bagi produsen, inovator, dan mitra pendukung industri kendaraan listrik di Indonesia. Kami berfokus pada penguatan rantai pasok komponen lokal, riset, dan kolaborasi strategis untuk mempercepat kemandirian industri kendaraan listrik nasional.
 										</p>
+										
 										<div class="center">
 											<a href="" class="btn btn-tertiary about-btn-tickets custom-border-radius custom-btn-style-1 font-size-md font-weight-semibold text-color-light text-uppercase outline-none mb-lg">Masuk / Daftar <i class="custom-long-arrow-right" aria-hidden="true"></i></a>
 											<!-- <a data-hash data-hash-offset="80" href="#schedule" class="btn custom-btn-border-1 custom-btn-style-1 custom-border-radius font-size-md font-weight-semibold text-color-light text-uppercase outline-none mb-lg">Event Schedule <i class="custom-long-arrow-right" aria-hidden="true"></i></a> -->
 										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="col-md-4 background-color-primary p-lg">
+								<div class="custom-about-content text-color-light p-xlg">
+									<div class="pt-lg">
+										<div class="about-title mb-xlg pb-lg">
+											<div class="icon">
+												<img src="<?=base_url() ?>assets/img/demos/event/about/visi.png" class="img-responsive" alt="">
+											</div>
+											<h3 class="text-color-light text-uppercase font-weight-bold mb-sm">Visi</h3>
+											<!-- <p class="text-color-light text-uppercase mb-none">Apa itu Forkindo</p> -->
+										</div>
+										<p class="custom-text-color-1 font-weight-normal pb-xlg mb-xl">
+											Menjadi asosiasi terdepan yang mendorong kemandirian dan daya saing industri komponen kendaraan listrik nasional.
+										</p>
+										<p>&nbsp;</p>
+										<p>&nbsp;</p>
+										<p>&nbsp;</p>
+										<p>&nbsp;</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="col-md-4 background-color-primary p-lg">
+								<div class="custom-about-content text-color-light p-xlg">
+									<div class="pt-lg">
+										<div class="about-title mb-xlg pb-lg">
+											<div class="icon">
+												<img src="<?=base_url() ?>assets/img/demos/event/about/misi.png" class="img-responsive" alt="">
+											</div>
+											<h3 class="text-color-light text-uppercase font-weight-bold mb-sm">Misi</h3>
+											<!-- <p class="text-color-light text-uppercase mb-none">Apa itu Forkindo</p> -->
+										</div>
+										<p class="custom-text-color-1 font-weight-normal mb-xl">
+											<ol>
+												<li>Menghubungkan produsen dan pemangku kepentingan di ekosistem kendaraan listrik.</li>
+												<li>Menghubungkan produsen dan pemangku kepentingan di ekosistem kendaraan listrik.</li>
+												<li>Menghubungkan produsen dan pemangku kepentingan di ekosistem kendaraan listrik.</li>
+												<li>Menghubungkan produsen dan pemangku kepentingan di ekosistem kendaraan listrik.</li>
+											</ol>
+										</p>
 									</div>
 								</div>
 							</div>
