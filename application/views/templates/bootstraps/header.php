@@ -101,17 +101,17 @@
 													Home
 												</a>
 											</li>
-											<li>
+											<!-- <li>
 												<a class="font-weight-semibold text-color-light" data-hash data-hash-offset="80" href="#speakers">
 													Speakers
 												</a>
-											</li>
+											</li> -->
 											<li>
 												<a class="font-weight-semibold text-color-light" data-hash data-hash-offset="80" href="#about">
-													About
+													Tentang Kami
 												</a>
 											</li>
-											<li>
+											<!-- <li>
 												<a class="font-weight-semibold text-color-light" data-hash data-hash-offset="80" href="#schedule">
 													Schedule
 												</a>
@@ -120,12 +120,12 @@
 												<a class="font-weight-semibold text-color-light" data-hash data-hash-offset="80" href="#sponsors">
 													Sponsors
 												</a>
-											</li>
-											<li>
+											</li> -->
+											<!-- <li>
 												<a class="font-weight-semibold text-color-light" data-hash data-hash-offset="80" href="#venue">
-													Venue
+													Lokasi
 												</a>
-											</li>
+											</li> -->
 										</ul>
 									</nav>
 								</div>

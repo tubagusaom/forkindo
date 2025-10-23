@@ -37,54 +37,13 @@
 									style="z-index: 5;"
 									data-transform_in="y:[-300%];opacity:0;s:500;">Forum Produsen Komponen Kendaraan Listrik</div>
 
-								<!-- <div class="tp-caption text-uppercase"
-									data-x="['right','right','right','right']"
-									data-hoffset="['80','80','80','80']" 
-									data-y="['center','center','center','center']"
-									data-voffset="['-40','-40','-40','-40']" 
-									data-start="1500"
-									style="z-index: 5;"
-									data-transform_in="opacity:0;s:500;">
-
-									<a href="#" class="play-video-custom custom-rev-next">
-										<img src="<?=base_url() ?>assets/img/demos/event/play-icon.png" class="img-responsive" width="90" height="90" />
-									</a>
-
-								</div> -->
-
 							</li>
-							<!-- <li data-transition="fade">
-								<img src="<?=base_url() ?>assets/video/light.mp4"  
-									alt=""
-									data-bgposition="center center" 
-									data-bgfit="cover" 
-									data-bgrepeat="no-repeat" 
-									class="rev-slidebg">
-
-								<div class="rs-background-video-layer" 
-									data-forcerewind="on" 
-									data-volume="mute" 
-									data-videowidth="100%" 
-									data-videoheight="100%" 
-									data-videomp4="<?=base_url() ?>assets/video/light.mp4" 
-									data-videopreload="preload" 
-									data-videoloop="none" 
-									data-forceCover="1" 
-									data-aspectratio="16:9" 
-									data-autoplay="true" 
-									data-autoplayonlyfirsttime="false" 
-									data-nextslideatend="true">
-								</div>
-
-								<div class="tp-dottedoverlay tp-opacity-overlay"></div>
-
-							</li> -->
 
 						</ul>
 					</div>
 				</div>
 
-				<section id="speakers" class="background-color-light pt-xlg">
+				<!-- <section id="speakers" class="background-color-light pt-xlg">
 					<div class="container mt-xlg pt-xlg pb-xlg">
 						<div class="row pt-sm">
 							<div class="col-md-12">
@@ -496,17 +455,17 @@
 							</div>
 						</div>
 					</div>
-				</section>
+				</section> -->
 
 				<section id="about">
 					<div class="container-fluid">
 						<div class="row is-table-row">
-							<div class="col-md-4 about-video p-none center" style="background-image: url('<?=base_url() ?>assets/img/demos/event/about/about-video-banner.jpg')">
+							<!-- <div class="col-md-4 about-video p-none center" style="background-image: url('<?=base_url() ?>assets/img/demos/event/about/about-video-banner.jpg')">
 								<a href="https://vimeo.com/178747566" class="play-video-custom popup-vimeo">
 									<img src="<?=base_url() ?>assets/img/demos/event/play-icon.png" class="img-responsive" width="90" height="90" />
 								</a>
-							</div>
-							<div class="col-md-4 background-color-primary p-lg">
+							</div> -->
+							<div class="col-md-12 background-color-primary p-lg">
 								<div class="custom-about-content text-color-light p-xlg">
 									<div class="pt-lg">
 										<div class="about-title mb-xlg pb-lg">
@@ -526,7 +485,8 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-4 p-none custom-about-carousel">
+              
+							<!-- <div class="col-md-4 p-none custom-about-carousel">
 								<div class="wrapper">
 									<div class="owl-carousel owl-theme nav-inside custom-dots-style-1" data-plugin-options="{'items': 1, 'margin': 0, 'animateOut': 'fadeOut', 'autoplay': false}">
 										<div class="carousel-image" style="background-image: url('<?=base_url() ?>assets/img/demos/event/about/about-banner-1.jpg');"></div>
@@ -534,12 +494,13 @@
 										<div class="carousel-image" style="background-image: url('<?=base_url() ?>assets/img/demos/event/about/about-banner-3.jpg');"></div>
 									</div>
 								</div>
-							</div>
+							</div> -->
+
 						</div>
 					</div>
 				</section>
 
-				<section id="schedule" class="background-color-light pb-xlg pt-xlg">
+				<!-- <section id="schedule" class="background-color-light pb-xlg pt-xlg">
 					<div class="container pt-xlg pb-xlg mt-xlg">
 						<div class="row pt-sm pb-xlg">
 							<div class="col-md-12">
@@ -724,9 +685,9 @@
 							</div>
 						</div>
 					</div>
-				</section>
+				</section> -->
 
-				<section id="counter" class="section section-parallax section-text-light section-center m-none pt-xlg pb-xlg" data-plugin-parallax data-plugin-options="{'speed': 1.5}" data-image-src="<?=base_url() ?>assets/img/demos/event/counter/parallax-event.jpg">
+				<!-- <section id="counter" class="section section-parallax section-text-light section-center m-none pt-xlg pb-xlg" data-plugin-parallax data-plugin-options="{'speed': 1.5}" data-image-src="<?=base_url() ?>assets/img/demos/event/counter/parallax-event.jpg">
 					<div class="container mt-xlg mb-xlg">
 						<div class="row mt-sm mb-sm">
 							<div class="counters counters-text-light">
@@ -761,7 +722,7 @@
 							</div>
 						</div>
 					</div>
-				</section>
+				</section> -->
 
 				<section id="sponsors" class="section-center pb-sm pt-xlg">
 					<div class="container pb-xlg pt-xlg mt-xlg">
