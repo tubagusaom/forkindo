@@ -1,60 +1,10 @@
 <footer id="footer" class="background-color-quaternary m-none pb-xlg">
 			<div class="container pt-xlg pb-xlg">
-				<div class="row mb-xlg pb-xlg">
-					<div class="col-md-5">
-						<div class="mb-xlg pb-xlg">
-							<h4 class="text-color-light font-weight-light mb-sm">FORKINDO</h4>
-							<!-- <p class="custom-font-size-3 text-color-light font-weight-normal text-uppercase mb-none">New York Plaza - New Work - NY</p> -->
-						</div>
-						<a href="" class="btn btn-primary custom-border-radius custom-btn-style-1 font-size-md font-weight-semibold text-color-light text-uppercase outline-none">Masuk / Daftar <i class="custom-long-arrow-right ml-md" aria-hidden="true"></i></a>
-					</div>
-					<div class="col-md-3">
-						<div class="contact-details">
-							<h4 class="text-color-light font-weight-light mb-lg pb-xs">Contact Us</h4>
-							<div class="mb-md">
-								<strong class="font-weight-light text-color-light">Address:</strong>
-								<span class="font-weight-light">Mandiri Inhealth Tower Lt 12, Jl. Prof. DR. Satrio Kav. E-IV No.6, Kuningan, Kecamatan Setiabudi, Jakarta Selatan, 12940</span>
-							</div>
-							<div class="mb-md">
-								<strong class="font-weight-light text-color-light">Phone:</strong>
-								<a href="tel:+628997409517" class="text-decoration-none font-weight-light">(+62) 8997409517</a>
-							</div>
-							<div>
-								<strong class="font-weight-light text-color-light">Email:</strong>
-								<a href="mailto:info@forkindo.id" class="text-decoration-none font-weight-light">info@forkindo.id</a>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-3 col-md-offset-1">
-						<h4 class="text-color-light font-weight-light mb-lg pb-xs">Follow Us</h4>
-						<ul class="social-icons">
-							<li class="social-icons-facebook">
-								<a href="http://www.facebook.com/" target="_blank" title="Facebook">
-									<i class="fa fa-facebook"></i>
-								</a>
-							</li>
-							<li class="social-icons-twitter">
-								<a href="http://www.twitter.com/" target="_blank" title="Twitter">
-									<i class="fa fa-twitter"></i>
-								</a>
-							</li>
-							<li class="social-icons-google">
-								<a href="http://www.plus.google.com/" target="_blank" title="Twitter">
-									<i class="fa fa-google-plus" aria-hidden="true"></i>
-								</a>
-							</li>
-							<li class="social-icons-linkedin">
-								<a href="http://www.linkedin.com/" target="_blank" title="Linkedin">
-									<i class="fa fa-linkedin"></i>
-								</a>
-							</li>
-						</ul>
-					</div>
-				</div>
+				
 				<div class="row">
 					<div class="col-md-12">
 						<div class="footer-border center pt-xlg">
-							<p class="font-weight-normal mb-none">© Copyright 2017. All Rights Reserved.</p>
+							<p class="font-weight-normal mb-none">© Copyright 2025. All Rights Reserved.</p>
 						</div>
 					</div>
 				</div>
@@ -111,7 +61,7 @@
 
 			// Map Markers
 			var mapMarkers = [{
-				address: "New York, NY 10017",
+				address: "Mandiri Inhealth Tower",
 				icon: {
 					image: "<?=base_url() ?>assets/img/demos/event/venue/map-pin.png",
 					iconsize: [36, 48],
@@ -120,8 +70,8 @@
 			}];
 
 			// Map Initial Location
-			var initLatitude = -6.556197;
-			var initLongitude = 106.7815113;
+			var initLatitude = -6.224532681825686;
+			var initLongitude = 106.82536828465501;
 
 			// Map Extended Settings
 			var mapSettings = {

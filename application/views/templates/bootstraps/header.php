@@ -98,7 +98,7 @@
 										<ul class="nav nav-pills custom-nav-pills" id="mainNav">
 											<li>
 												<a class="font-weight-semibold text-color-light" data-hash href="#revolutionSlider">
-													Home
+													Beranda
 												</a>
 											</li>
 											<!-- <li>
@@ -111,6 +111,16 @@
 													Tentang Kami
 												</a>
 											</li>
+											<li>
+												<a class="font-weight-semibold text-color-light" data-hash data-hash-offset="80" href="#lokasi">
+													Lokasi
+												</a>
+											</li>
+											<!-- <li>
+												<a class="font-weight-semibold text-color-light" data-hash data-hash-offset="80" href="#lokasi">
+													Lokasi
+												</a>
+											</li> -->
 											<!-- <li>
 												<a class="font-weight-semibold text-color-light" data-hash data-hash-offset="80" href="#schedule">
 													Schedule
@@ -218,110 +228,3 @@
 				</div>
 			</div>
 		</div>
-
-		<div id="status"></div>
-
-		<script>
-			function statusChangeCallback(response) {
-
-				var status_login_fb = response.status;
-
-				// alert(status_login_fb);
-
-				if (response.status === 'connected') { // Masuk ke halaman web dan Facebook Anda.
-					// alert('Silahkan login Kembali !!!');
-					testAPI();
-				}
-			}
-
-			function checkLoginState() { // Dipanggil ketika seseorang selesai dengan Tombol Login.
-				FB.getLoginStatus(function(response) { // Lihat penangan saat masuk
-					statusChangeCallback(response);
-				});
-			}
-
-			function testAPI() { // Menguji API Grafik setelah login. Lihat statusChangeCallback() untuk mengetahui kapan panggilan ini dilakukan.
-				// console.log('Welcome!  Fetching your information.... ');
-				FB.api('/me', function(response) {
-
-					// var fbStatus = response.status;
-
-					// var fbId = response.id;
-					// var fbName = response.name;
-					// var replaceName = fbName.replace(/ /g,"_-_");
-
-					// alert(fbStatus);
-
-					// var urlAuth = "<?php echo site_url(); ?>auth_login/fb/"+fbId+"/"+replaceName;
-					// var redirect_url = "<?php echo site_url(); ?>home";
-					//
-					// $.ajax({
-					//     type: 'GET',
-					//     url: urlAuth,
-					//     // data: response,
-					//     success: function(){
-					//       window.location.href = urlAuth;
-					//     }
-					// });
-
-					// console.log('Successful login for: ' + response.name);
-					document.getElementById('status').innerHTML =
-						'&nbsp;&nbsp;&nbsp;&nbsp;  Terima kasih <b style="color:#1c2a5f">' + response.name + ' ( ' + response.id + ' ) </b> telah masuk !';
-				});
-			}
-
-			window.fbAsyncInit = function() {
-				FB.init({
-					appId: '3260204117569404',
-					xfbml: true, // Parsing plugin sosial di halaman web ini.
-					version: 'v14.0' // Gunakan versi Graph API ini untuk panggilan ini.
-				});
-
-				// FB.AppEvents.logPageView();
-
-				FB.getLoginStatus(function(response) { // Dipanggil setelah JS SDK diinisialisasi.
-					statusChangeCallback(response); // Mengembalikan status login.
-				});
-
-				// FB.logout(function(response) {
-				//    // Person is now logged out
-				//
-				//    document.getElementById('status').innerHTML = '&nbsp;&nbsp;&nbsp;&nbsp; Silakan masuk ' +
-				//      'ke halaman web ini..';
-				// });
-			};
-
-
-
-			(function(d, s, id) {
-				var js, fjs = d.getElementsByTagName(s)[0];
-				if (d.getElementById(id)) {
-					return;
-				}
-				js = d.createElement(s);
-				js.id = id;
-				// js.src = "https://connect.facebook.net/id_ID/sdk.js";
-				js.src = "https://connect.facebook.net/id_ID/sdk.js#xfbml=1&version=v3.0";
-				fjs.parentNode.insertBefore(js, fjs);
-			}(document, 'script', 'facebook-jssdk'));
-		</script>
-
-		<!-- <script>
-			  window.fbAsyncInit = function() {
-			    FB.init({
-			      appId      : '3260204117569404',
-			      xfbml      : true,
-			      version    : 'v14.0'
-			    });
-			    FB.AppEvents.logPageView();
-			  };
-
-			  (function(d, s, id){
-			     var js, fjs = d.getElementsByTagName(s)[0];
-			     if (d.getElementById(id)) {return;}
-			     js = d.createElement(s); js.id = id;
-			     js.src = "https://connect.facebook.net/en_US/sdk.js";
-			     fjs.parentNode.insertBefore(js, fjs);
-			   }(document, 'script', 'facebook-jssdk'));
-			</script> -->
-		<script async defer crossorigin="anonymous" src="https://connect.facebook.net/id_ID/sdk.js#xfbml=1&version=v14.0&appId=3260204117569404&autoLogAppEvents=1" nonce="abKr11wq"></script>
