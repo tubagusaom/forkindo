@@ -1,15 +1,42 @@
-<footer id="footer" class="background-color-quaternary m-none pb-xlg">
-			<div class="container pt-xlg pb-xlg">
-				
-				<div class="row">
-					<div class="col-md-12">
-						<div class="footer-border center pt-xlg">
-							<p class="font-weight-normal mb-none">© Copyright 2025. All Rights Reserved.</p>
+
+
+		<footer id="footer">
+				<div class="container">
+					<div class="row">
+						<div class="footer-ribbon">
+							<span>FORKINDO</span>
 						</div>
+
+						<div class="col-md-12">
+							<p>© Copyright 2025. All Rights Reserved.</p>
+						</div>
+
 					</div>
 				</div>
-			</div>
-		</footer>
+				<!-- <div class="footer-copyright">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-1">
+								<a href="index.html" class="logo">
+									<img alt="Porto Website Template" class="img-responsive" src="img/logo-footer.png">
+								</a>
+							</div>
+							<div class="col-md-7">
+								<p>© Copyright 2017. All Rights Reserved.</p>
+							</div>
+							<div class="col-md-4">
+								<nav id="sub-menu">
+									<ul>
+										<li><a href="page-faq.html">FAQ's</a></li>
+										<li><a href="sitemap.html">Sitemap</a></li>
+										<li><a href="contact-us.html">Contact</a></li>
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+				</div> -->
+			</footer>
 
 		<!-- Vendor -->
 		<script src="<?= base_url() ?>assets/vendor/jquery/jquery.min.js"></script>

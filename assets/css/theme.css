@@ -3581,8 +3581,8 @@ html.dark .text-muted {
 	background: #db0c13;
 	border-top: 4px groove #eee;
 	font-size: 0.9em;
-	margin-top: 50px;
-	/* padding: 70px 0 0; */
+	/* margin-top: 50px; */
+	padding: 75px 0 0;
 	position: relative;
 	clear: both;
 }
