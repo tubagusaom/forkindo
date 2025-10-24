@@ -137,171 +137,54 @@
 					<div class="container pb-xlg pt-xlg mt-xlg">
 						<div class="row pt-sm pb-xl">
 							<div class="col-md-12">
-								<h2 class="text-color-dark text-uppercase font-weight-bold center mb-xs">Mitra Kami</h2>
-								<p class="custom-font-size-1 center mb-sm">Terima kasih kepada Mitra Kami</p>
+								<h2 class="text-color-dark text-uppercase font-weight-bold center mb-xs">Bidang dan Fokus Industri</h2>
+								<!-- <p class="custom-font-size-1 center mb-sm">Terima kasih kepada Mitra Kami</p> -->
 							</div>
 						</div>
-						<div class="row mb-xlg pb-xlg">
-							<div class="col-md-12">
-								<div class="owl-carousel owl-theme custom-dots-style-1 custom-dots-color-primary mb-none" data-plugin-options="{'items': 4, 'margin': 0, 'loop': false}">
-									<div class="carousel-logo-item background-color-light">
-										<div class="carousel-logo-pannel carousel-logo-pb center">
-											<img src="<?=base_url() ?>assets/img/demos/event/sponsors/sponsor-logo-1.png" class="img-responsive" alt="">
-										</div>
-										<div class="carousel-logo-pannel carousel-logo-hover pt-xlg pl-md pr-md pb-sm ">
-											<div class="mb-lg">
-												<img src="<?=base_url() ?>assets/img/demos/event/sponsors/themeforest-logo-color.png" class="img-responsive" alt="">
-											</div>
-											<p class="carousel-logo-description font-weight-normal">
-												Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, veniam. Ratione doloremque quibusdam, delectus placeat.
-											</p>
-										</div>
+
+						<div class="row mt-xlg pt-xlg mb-xlg pb-xlg">
+							<div class="col-md-6">
+								<div class="feature-box feature-box-style-2">
+									<div class="feature-box-icon">
+										<i class="fa fa-battery-full"></i>
 									</div>
-									<div class="carousel-logo-item background-color-light">
-										<div class="carousel-logo-pannel carousel-logo-pb center">
-											<img src="<?=base_url() ?>assets/img/demos/event/sponsors/sponsor-logo-2.png" class="img-responsive" alt="">
-										</div>
-										<div class="carousel-logo-pannel carousel-logo-hover pt-xlg pl-md pr-md pb-sm ">
-											<div class="mb-lg">
-												<img src="<?=base_url() ?>assets/img/demos/event/sponsors/photodune-logo-color.png" class="img-responsive" alt="">
-											</div>
-											<p class="carousel-logo-description font-weight-normal">
-												Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, veniam. Ratione doloremque quibusdam, delectus placeat.
-											</p>
-										</div>
+									<div class="feature-box-info">
+										<h4 class="mb-none">Baterai & Sistem Manajemen Energi</h4>
+										<p class="tall">Produksi modul, BMS, dan sel baterai lokal.</p>
 									</div>
-									<div class="carousel-logo-item background-color-light">
-										<div class="carousel-logo-pannel carousel-logo-pb center">
-											<img src="<?=base_url() ?>assets/img/demos/event/sponsors/sponsor-logo-3.png" class="img-responsive" alt="">
-										</div>
-										<div class="carousel-logo-pannel carousel-logo-hover pt-xlg pl-md pr-md pb-sm ">
-											<div class="mb-lg">
-												<img src="<?=base_url() ?>assets/img/demos/event/sponsors/graphicriver-logo-color.png" class="img-responsive" alt="">
-											</div>
-											<p class="carousel-logo-description font-weight-normal">
-												Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, veniam. Ratione doloremque quibusdam, delectus placeat.
-											</p>
-										</div>
+								</div>
+								<div class="feature-box feature-box-style-2">
+									<div class="feature-box-icon">
+										<i class="fa fa-cogs"></i>
 									</div>
-									<div class="carousel-logo-item background-color-light">
-										<div class="carousel-logo-pannel carousel-logo-pb center">
-											<img src="<?=base_url() ?>assets/img/demos/event/sponsors/sponsor-logo-4.png" class="img-responsive" alt="">
-										</div>
-										<div class="carousel-logo-pannel carousel-logo-hover pt-xlg pl-md pr-md pb-sm ">
-											<div class="mb-lg">
-												<img src="<?=base_url() ?>assets/img/demos/event/sponsors/audiojungle-logo-color.png" class="img-responsive" alt="">
-											</div>
-											<p class="carousel-logo-description font-weight-normal">
-												Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, veniam. Ratione doloremque quibusdam, delectus placeat.
-											</p>
-										</div>
-									</div>
-									<div class="carousel-logo-item background-color-light">
-										<div class="carousel-logo-pannel carousel-logo-pb center">
-											<img src="<?=base_url() ?>assets/img/demos/event/sponsors/sponsor-logo-1.png" class="img-responsive" alt="">
-										</div>
-										<div class="carousel-logo-pannel carousel-logo-hover pt-xlg pl-md pr-md pb-sm ">
-											<div class="mb-lg">
-												<img src="<?=base_url() ?>assets/img/demos/event/sponsors/themeforest-logo-color.png" class="img-responsive" alt="">
-											</div>
-											<p class="carousel-logo-description font-weight-normal">
-												Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, veniam. Ratione doloremque quibusdam, delectus placeat.
-											</p>
-										</div>
-									</div>
-									<div class="carousel-logo-item background-color-light">
-										<div class="carousel-logo-pannel carousel-logo-pb center">
-											<img src="<?=base_url() ?>assets/img/demos/event/sponsors/sponsor-logo-2.png" class="img-responsive" alt="">
-										</div>
-										<div class="carousel-logo-pannel carousel-logo-hover pt-xlg pl-md pr-md pb-sm ">
-											<div class="mb-lg">
-												<img src="<?=base_url() ?>assets/img/demos/event/sponsors/photodune-logo-color.png" class="img-responsive" alt="">
-											</div>
-											<p class="carousel-logo-description font-weight-normal">
-												Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, veniam. Ratione doloremque quibusdam, delectus placeat.
-											</p>
-										</div>
-									</div>
-									<div class="carousel-logo-item background-color-light">
-										<div class="carousel-logo-pannel carousel-logo-pb center">
-											<img src="<?=base_url() ?>assets/img/demos/event/sponsors/sponsor-logo-3.png" class="img-responsive" alt="">
-										</div>
-										<div class="carousel-logo-pannel carousel-logo-hover pt-xlg pl-md pr-md pb-sm ">
-											<div class="mb-lg">
-												<img src="<?=base_url() ?>assets/img/demos/event/sponsors/graphicriver-logo-color.png" class="img-responsive" alt="">
-											</div>
-											<p class="carousel-logo-description font-weight-normal">
-												Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, veniam. Ratione doloremque quibusdam, delectus placeat.
-											</p>
-										</div>
-									</div>
-									<div class="carousel-logo-item background-color-light">
-										<div class="carousel-logo-pannel carousel-logo-pb center">
-											<img src="<?=base_url() ?>assets/img/demos/event/sponsors/sponsor-logo-4.png" class="img-responsive" alt="">
-										</div>
-										<div class="carousel-logo-pannel carousel-logo-hover pt-xlg pl-md pr-md pb-sm ">
-											<div class="mb-lg">
-												<img src="<?=base_url() ?>assets/img/demos/event/sponsors/audiojungle-logo-color.png" class="img-responsive" alt="">
-											</div>
-											<p class="carousel-logo-description font-weight-normal">
-												Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, veniam. Ratione doloremque quibusdam, delectus placeat.
-											</p>
-										</div>
-									</div>
-									<div class="carousel-logo-item background-color-light">
-										<div class="carousel-logo-pannel carousel-logo-pb center">
-											<img src="<?=base_url() ?>assets/img/demos/event/sponsors/sponsor-logo-1.png" class="img-responsive" alt="">
-										</div>
-										<div class="carousel-logo-pannel carousel-logo-hover pt-xlg pl-md pr-md pb-sm ">
-											<div class="mb-lg">
-												<img src="<?=base_url() ?>assets/img/demos/event/sponsors/themeforest-logo-color.png" class="img-responsive" alt="">
-											</div>
-											<p class="carousel-logo-description font-weight-normal">
-												Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, veniam. Ratione doloremque quibusdam, delectus placeat.
-											</p>
-										</div>
-									</div>
-									<div class="carousel-logo-item background-color-light">
-										<div class="carousel-logo-pannel carousel-logo-pb center">
-											<img src="<?=base_url() ?>assets/img/demos/event/sponsors/sponsor-logo-2.png" class="img-responsive" alt="">
-										</div>
-										<div class="carousel-logo-pannel carousel-logo-hover pt-xlg pl-md pr-md pb-sm ">
-											<div class="mb-lg">
-												<img src="<?=base_url() ?>assets/img/demos/event/sponsors/photodune-logo-color.png" class="img-responsive" alt="">
-											</div>
-											<p class="carousel-logo-description font-weight-normal">
-												Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, veniam. Ratione doloremque quibusdam, delectus placeat.
-											</p>
-										</div>
-									</div>
-									<div class="carousel-logo-item background-color-light">
-										<div class="carousel-logo-pannel carousel-logo-pb center">
-											<img src="<?=base_url() ?>assets/img/demos/event/sponsors/sponsor-logo-3.png" class="img-responsive" alt="">
-										</div>
-										<div class="carousel-logo-pannel carousel-logo-hover pt-xlg pl-md pr-md pb-sm ">
-											<div class="mb-lg">
-												<img src="<?=base_url() ?>assets/img/demos/event/sponsors/graphicriver-logo-color.png" class="img-responsive" alt="">
-											</div>
-											<p class="carousel-logo-description font-weight-normal">
-												Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, veniam. Ratione doloremque quibusdam, delectus placeat.
-											</p>
-										</div>
-									</div>
-									<div class="carousel-logo-item background-color-light">
-										<div class="carousel-logo-pannel carousel-logo-pb center">
-											<img src="<?=base_url() ?>assets/img/demos/event/sponsors/sponsor-logo-4.png" class="img-responsive" alt="">
-										</div>
-										<div class="carousel-logo-pannel carousel-logo-hover pt-xlg pl-md pr-md pb-sm ">
-											<div class="mb-lg">
-												<img src="<?=base_url() ?>assets/img/demos/event/sponsors/audiojungle-logo-color.png" class="img-responsive" alt="">
-											</div>
-											<p class="carousel-logo-description font-weight-normal">
-												Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, veniam. Ratione doloremque quibusdam, delectus placeat.
-											</p>
-										</div>
+									<div class="feature-box-info">
+										<h4 class="mb-none">Motor Listrik & Sistem Penggerak</h4>
+										<p class="tall">Pengembangan motor, kontroler, dan gearbox EV.</p>
 									</div>
 								</div>
 							</div>
+							<div class="col-md-6">
+								<div class="feature-box feature-box-style-2">
+									<div class="feature-box-icon">
+										<i class="fa fa-plug"></i>
+									</div>
+									<div class="feature-box-info">
+										<h4 class="mb-none">Charger & Infrastruktur Energi</h4>
+										<p class="tall">Sistem pengisian daya dan jaringan kelistrikan.</p>
+									</div>
+								</div>
+								<div class="feature-box feature-box-style-2">
+									<div class="feature-box-icon">
+										<i class="fa fa-microchip"></i>
+									</div>
+									<div class="feature-box-info">
+										<h4 class="mb-none">Rangka, Elektronik, & Software EV</h4>
+										<p class="tall">Inovasi desain, sasis, dan sistem kontrol pintar.</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
 						</div>
 					</div>
 				</section>

@@ -112,6 +112,11 @@
 												</a>
 											</li>
 											<li>
+												<a class="font-weight-semibold text-color-light" data-hash data-hash-offset="80" href="#sponsors">
+													Bidang
+												</a>
+											</li>
+											<li>
 												<a class="font-weight-semibold text-color-light" data-hash data-hash-offset="80" href="#lokasi">
 													Lokasi
 												</a>
