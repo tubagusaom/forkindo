@@ -64,13 +64,16 @@
 										</div>
 										<p class="custom-text-color-1 font-weight-normal pb-xlg mb-xl">
 											FORKINDO adalah wadah bagi produsen, inovator, dan mitra pendukung industri kendaraan listrik di Indonesia. Kami berfokus pada penguatan rantai pasok komponen lokal, riset, dan kolaborasi strategis untuk mempercepat kemandirian industri kendaraan listrik nasional.
+											<!-- <br>&nbsp;
 											<br>&nbsp;
+											<br>&nbsp; -->
 										</p>
+										<!-- <p>&nbsp;</p>
+										<p>&nbsp;</p> -->
 										
-										<div class="center">
+										<!-- <div class="center">
 											<a href="" class="btn btn-tertiary about-btn-tickets custom-border-radius custom-btn-style-1 font-size-md font-weight-semibold text-color-light text-uppercase outline-none mb-lg">Masuk / Daftar <i class="custom-long-arrow-right" aria-hidden="true"></i></a>
-											<!-- <a data-hash data-hash-offset="80" href="#schedule" class="btn custom-btn-border-1 custom-btn-style-1 custom-border-radius font-size-md font-weight-semibold text-color-light text-uppercase outline-none mb-lg">Event Schedule <i class="custom-long-arrow-right" aria-hidden="true"></i></a> -->
-										</div>
+										</div> -->
 									</div>
 								</div>
 							</div>
@@ -89,8 +92,8 @@
 											Menjadi wadah utama yang memperkuat kemandirian dan daya saing industri komponen kendaraan listrik Indonesia di pasar nasional maupun internasional.
 										</p>
 										<p>&nbsp;</p>
-										<p>&nbsp;</p>
-										<p>&nbsp;</p>
+										<!-- <p>&nbsp;</p>
+										<p>&nbsp;</p> -->
 									</div>
 								</div>
 							</div>
@@ -113,8 +116,8 @@
 												<li>Memperluas jaringan bisnis dan kolaborasi global.</li>
 											</ol>
 										</p>
-										<p>&nbsp;</p>
-										<p>&nbsp;</p>
+										<!-- <p>&nbsp;</p>
+										<p>&nbsp;</p> -->
 									</div>
 								</div>
 							</div>
@@ -129,6 +132,27 @@
 								</div>
 							</div> -->
 
+						</div>
+					</div>
+				</section>
+
+				<section class="call-to-action call-to-action-default with-button-arrow call-to-action-in-footer background-color-primary">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-12">
+								<div>
+									<h3 class="text-color-light"><strong>Manfaat Anggota:</strong></h3>
+									<p class="text-color-light">
+										<strong>1. </strong> Akses jaringan industri EV nasional. <br>
+										<strong>2. </strong> Prioritas dalam program pelatihan dan pameran. <br>
+										<strong>3. </strong> Sertifikat & kartu anggota digital dengan QR Code unik.
+									</p>
+									<!-- <p>2. <strong>#1 Selling</strong> HTML Site Template on ThemeForest</p> -->
+								</div>
+								<div class="call-to-action-btn">
+									<a href="" class="btn btn-tertiary about-btn-tickets custom-border-radius custom-btn-style-1 font-size-md font-weight-semibold text-color-light text-uppercase outline-none mb-lg">Masuk / Daftar <i class="custom-long-arrow-right" aria-hidden="true"></i></a>
+								</div>
+							</div>
 						</div>
 					</div>
 				</section>
