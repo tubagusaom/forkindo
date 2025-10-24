@@ -64,6 +64,7 @@
 										</div>
 										<p class="custom-text-color-1 font-weight-normal pb-xlg mb-xl">
 											FORKINDO adalah wadah bagi produsen, inovator, dan mitra pendukung industri kendaraan listrik di Indonesia. Kami berfokus pada penguatan rantai pasok komponen lokal, riset, dan kolaborasi strategis untuk mempercepat kemandirian industri kendaraan listrik nasional.
+											<br>&nbsp;
 										</p>
 										
 										<div class="center">
@@ -85,7 +86,7 @@
 											<!-- <p class="text-color-light text-uppercase mb-none">Apa itu Forkindo</p> -->
 										</div>
 										<p class="custom-text-color-1 font-weight-normal pb-xlg mb-xl">
-											Menjadi asosiasi terdepan yang mendorong kemandirian dan daya saing industri komponen kendaraan listrik nasional.
+											Menjadi wadah utama yang memperkuat kemandirian dan daya saing industri komponen kendaraan listrik Indonesia di pasar nasional maupun internasional.
 										</p>
 										<p>&nbsp;</p>
 										<p>&nbsp;</p>
