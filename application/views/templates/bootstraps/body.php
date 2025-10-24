@@ -141,7 +141,7 @@
 						<div class="row">
 							<div class="col-md-12">
 								<div>
-									<h3 class="text-color-light"><strong>Manfaat Anggota:</strong></h3>
+									<h3 class="text-color-light"><strong>Manfaat Keanggotaan</strong></h3>
 									<p class="text-color-light">
 										<strong>1. </strong> Akses jaringan industri EV nasional. <br>
 										<strong>2. </strong> Prioritas dalam program pelatihan dan pameran. <br>
